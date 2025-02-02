@@ -9,7 +9,7 @@ It uses **Python** to randomly construct valid English syllables while consideri
 - Ensures **phoneme constraints** (e.g., /ŋ/ cannot appear in the onset position)  
 - Utilizes **Python's `random` module** to simulate phonotactic patterns  
 
-## 🛠️ Installation & Usage  
+## Installation & Usage  
 1. Clone the repository or download the Python file:  
    ```bash
    git clone https://github.com/7riangle/English-Phonotactics-Project.git
